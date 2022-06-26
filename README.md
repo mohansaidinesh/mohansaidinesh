@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohan Sai Dinesh</h1>
 <h3 align="center">Programmer || Artist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohansaidinesh&label=Profile%20views&color=0e75b6&style=flat" alt="mohansaidinesh" /> </p>
-
 - 🔭 I’m currently studying on [Vishnu Institute Of Technology](https://www.vishnu.edu.in/)
 
 - 📝 I regularly write articles on [https://medium.com/@20pa1a0521](https://medium.com/@20pa1a0521)
