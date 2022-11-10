@@ -4,7 +4,7 @@
 - 🔭 I’m currently studying on [Vishnu Institute Of Technology](https://www.vishnu.edu.in/)
 
 - 📝 I regularly write articles on [https://medium.com/@20pa1a0521](https://medium.com/@20pa1a0521)
-- ❤️ Personal [Portfolio](❤https://portfolio-qxcc.vercel.app/)
+- ❤️ Personal [Portfolio](https://portfolio-qxcc.vercel.app/)
 
 - 📫 How to reach me **mohansaidinesh@gmail.com**
 
