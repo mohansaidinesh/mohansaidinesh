@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohan Sai Dinesh</h1>
-<h3 align="center">Programmer || Artist</h3>
+<h3 align="center">Programmer || AI Enthusiast</h3>
 
 - 🔭 I’m currently studying in [Vishnu Institute Of Technology](https://www.vishnu.edu.in/)
 
