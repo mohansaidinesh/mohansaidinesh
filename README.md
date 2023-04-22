@@ -5,8 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@20pa1a0521](https://medium.com/@20pa1a0521)
 - ❤️ Personal [Portfolio](https://portfolio-qxcc.vercel.app/)
-- 🔬 Research Work https://orcid.org/
-0000-0001-5241-2152
+- 🔬 Research Work [Orcid](https://orcid.org/0000-0001-5241-2152)
 
 - 📫 How to reach me **mohansaidinesh@gmail.com**
 
