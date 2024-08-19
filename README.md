@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohan Sai Dinesh</h1>
 <h3 align="center">Python || ML || AI Developer</h3>
 
-- 🔭 I’m completed graduation in [Vishnu Institute Of Technology](https://www.vishnu.edu.in/)
+- 🔭 I completed graduation in [Vishnu Institute Of Technology](https://www.vishnu.edu.in/)
 
 - 📝 I regularly write articles on [https://medium.com/@20pa1a0521](https://medium.com/@20pa1a0521)
 - ❤️ Personal [Portfolio](https://portfolio-qxcc.vercel.app/)
