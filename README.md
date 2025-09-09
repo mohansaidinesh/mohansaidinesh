@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohan Sai Dinesh</h1>
 <h3 align="center">Python || ML || AI Developer</h3>
 
-- 🔭 I completed graduation in [Vishnu Institute Of Technology](https://www.vishnu.edu.in/)
-
-- 📝 I regularly write articles on [https://medium.com/@20pa1a0521](https://medium.com/@20pa1a0521)
-- ❤️ Personal [Portfolio](https://portfolio-qxcc.vercel.app/)
-- 🔬 Research Work [Orcid](https://orcid.org/0000-0001-5241-2152)
-
-- 📫 How to reach me **mohansaidinesh@gmail.com**
-
-- ⚡ Fun fact **I don't care about anyone**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_.nani._.marvelous._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.nani._.marvelous._" height="30" width="40" /></a>
